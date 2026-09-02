@@ -77,9 +77,13 @@ img { display: block; max-width: 100%; }
   object-fit: contain;
   width: auto;
 }
-:root[data-theme="light"] .site-header .brand-logo {
-  filter: drop-shadow(0 8px 18px rgba(13, 27, 42, .12));
+.brand-logo-light { display: none; }
+:root[data-theme="light"] .site-header .brand-logo-dark { display: none; }
+:root[data-theme="light"] .site-header .brand-logo-light {
+  display: block;
+  filter: none;
 }
+.footer .brand-logo-light { display: none !important; }
 
 .nav { display: flex; gap: clamp(16px, 2.4vw, 30px); justify-content: center; }
 .nav a, .header-action {

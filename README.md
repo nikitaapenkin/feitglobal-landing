@@ -7,7 +7,8 @@ Static landing page for `feitglobal.com`.
 - `index.html` - page markup
 - `styles.css` - responsive styling
 - `script.js` - language switcher, theme switcher and inquiry form mailto logic
-- `assets/feit-logo-gold.png` - FEIT logo with transparent background
+- `assets/logos/feit-logo-dark-theme.svg` - FEIT logo for dark theme
+- `assets/logos/feit-logo-light-theme.svg` - FEIT logo for light theme
 - `assets/grain-terminal-hero.webp` - grain field / terminal hero visual
 - `assets/uae-trade-hero.webp` - previous UAE/global trade visual kept as a backup asset
 - `assets/dubai-office-network.webp` - Dubai office/network visual
