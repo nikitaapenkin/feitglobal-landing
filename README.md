@@ -6,7 +6,7 @@ Static landing page for `feitglobal.com`.
 
 - `index.html` - page markup
 - `styles.css` - responsive styling
-- `script.js` - language switcher, theme switcher and inquiry form mailto logic
+- `script.js` - theme switcher and inquiry form mailto logic
 - `assets/logos/feit-logo-dark-theme.svg` - FEIT logo for dark theme
 - `assets/logos/feit-logo-light-theme.svg` - FEIT logo for light theme
 - `assets/grain-terminal-hero.webp` - grain field / terminal hero visual
@@ -15,7 +15,7 @@ Static landing page for `feitglobal.com`.
 
 ## Current note
 
-The landing supports English and Russian versions in one file, plus dark and light themes.
+The landing is English-only and supports dark and light themes.
 
 ## First publication option
 

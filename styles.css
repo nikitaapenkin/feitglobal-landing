@@ -383,18 +383,17 @@ h3 { font-size: 1.12rem; line-height: 1.25; margin-bottom: 10px; }
   height: 8px;
   width: 8px;
 }
-.label-russia,
 .label-uae {
   background: linear-gradient(135deg, var(--gold-2), var(--gold));
   color: var(--navy);
   font-size: .94rem;
   padding: 10px 14px;
 }
-.label-russia { left: 39%; top: 27%; }
 .label-uae { right: 24%; top: 33%; }
 .label-china { right: 29%; bottom: 25%; }
 .label-kz { left: 31%; bottom: 26%; }
 .label-eu { left: 27%; top: 45%; }
+.label-latam { left: 11%; bottom: 29%; }
 .label-sea { right: 7%; bottom: 14%; }
 .network-caption {
   background: rgba(8,20,33,.78);
@@ -528,11 +527,11 @@ iframe { border: 0; border-radius: 8px; box-shadow: var(--shadow); height: 390px
   .product-card, .why-grid article { min-height: 0; }
   .map-card { aspect-ratio: auto; min-height: 560px; }
   .globe-label { font-size: .68rem; padding: 6px 8px; }
-  .label-russia { left: 28%; top: 28%; }
   .label-uae { right: 13%; top: 35%; }
   .label-china { right: 18%; bottom: 30%; }
   .label-kz { left: 22%; bottom: 31%; }
   .label-eu { left: 14%; top: 48%; }
+  .label-latam { left: 8%; bottom: 37%; }
   .label-sea { right: 6%; bottom: 19%; }
   .network-caption { bottom: 16px; left: 16px; right: 16px; max-width: none; }
 }
